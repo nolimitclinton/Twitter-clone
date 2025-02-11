@@ -4,9 +4,9 @@ import React from 'react'
 const Page = () => {
   return (
     <View>
-      <Text>Details</Text>
+      <Text>React Native</Text>
     </View>
-  )
-}
+  );
+};
 
-export default Page
+export default Page;
